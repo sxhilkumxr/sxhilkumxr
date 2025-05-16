@@ -2,7 +2,7 @@
 sup! myself Sahil 👋<br>Just a human typing random letters and sometimes it turns into code<br>💻 caffeine enthusiast | bug collector | idea generator<br>building stuff, breaking stuff, learning stuff<br><br>🚀 Trying to create something fascinating<br><br>
 
 
-![My coding space](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY4MDBnMGo5NjBsNXJmNng4cHc0ZXRkOWd0cTJkc3R0ZjNqamR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif) ![laptop](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10YmlvaWJ0M2ZodXh1eGoycmdkaDBybHU5Z3BtYmlqYzduZGt2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)
+![laptop](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10YmlvaWJ0M2ZodXh1eGoycmdkaDBybHU5Z3BtYmlqYzduZGt2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)
 
 
 ## 🌐 Socials:
