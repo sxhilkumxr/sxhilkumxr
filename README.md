@@ -1,8 +1,6 @@
 # 💫 About Me:
 sup! myself Sahil 👋<br>Just a human typing random letters and sometimes it turns into code<br>💻 caffeine enthusiast | bug collector | idea generator<br>building stuff, breaking stuff, learning stuff<br><br>🚀 Trying to create something fascinating<br><br>
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10YmlvaWJ0M2ZodXh1eGoycmdkaDBybHU5Z3BtYmlqYzduZGt2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Alt Text" width="100"/>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sxhilkumxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-kumar-577914315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil_24a12res569@iitp.ac.in) 
