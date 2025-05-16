@@ -3,6 +3,7 @@ sup! myself Sahil 👋<br>Just a human typing random letters and sometimes it tu
 
 
 ![laptop](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10YmlvaWJ0M2ZodXh1eGoycmdkaDBybHU5Z3BtYmlqYzduZGt2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10YmlvaWJ0M2ZodXh1eGoycmdkaDBybHU5Z3BtYmlqYzduZGt2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Alt Text" width="100"/>
 
 
 ## 🌐 Socials:
