@@ -1,7 +1,7 @@
 # 💫 About Me:
 sup! myself Sahil 👋<br>Just a human typing random letters and sometimes it turns into code<br>💻 caffeine enthusiast | bug collector | idea generator<br>building stuff, breaking stuff, learning stuff<br><br>🚀 Trying to create something fascinating<br><br>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY4MDBnMGo5NjBsNXJmNng4cHc0ZXRkOWd0cTJkc3R0ZjNqamR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="My cool gif" width="300"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY4MDBnMGo5NjBsNXJmNng4cHc0ZXRkOWd0cTJkc3R0ZjNqamR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="My cool gif" width="300 height=100"/>
 ![My coding space](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY4MDBnMGo5NjBsNXJmNng4cHc0ZXRkOWd0cTJkc3R0ZjNqamR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif)
 
 
